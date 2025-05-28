@@ -9,7 +9,7 @@ Welcome to the Simon Says Game project! This is a web-based version of the class
 - **Score Tracking:** The game keeps track of the player's score as they progress through different levels.
 
 ## How to Play
-
+link - `https://simon-says-game-psi-ebon.vercel.app/`
 1. **Start the Game:** Press the start button to begin the game.
 2. **Follow the Sequence:** Watch and listen to the sequence of lights and sounds.
 3. **Repeat the Sequence:** Click the lights in the same order as the sequence.
